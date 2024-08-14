@@ -60,37 +60,37 @@ const ProductsAndProjects = () => (
     <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <div className="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The French Quarter Estate</h2>
-        <img src="french-quarter-estate.jpg" alt="French Quarter Estate" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="french-quarter-estate.jpg" alt="French Quarter Estate" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">A complete landscape transformation for a historic estate in the heart of the French Quarter, featuring luxury turf grass and a custom irrigation system.</p>
       </div>
 
       <div className="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The Garden District Oasis</h2>
-        <img src="garden-district-oasis.jpg" alt="Garden District Oasis" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="garden-district-oasis.jpg" alt="Garden District Oasis" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">This project involved the creation of a lush, private oasis in the Garden District, complete with organic fertilizers and custom-blended mulch.</p>
       </div>
 
       <div className="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The Lakeshore Parkland</h2>
-        <img src="lakeshore-parkland.jpg" alt="Lakeshore Parkland" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="lakeshore-parkland.jpg" alt="Lakeshore Parkland" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">A sprawling parkland project along Lakeshore Drive, featuring eco-friendly pest control and smart irrigation systems.</p>
       </div>
 
       <div className="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The Uptown Retreat</h2>
-        <img src="uptown-retreat.jpg" alt="Uptown Retreat" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="uptown-retreat.jpg" alt="Uptown Retreat" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">A sophisticated outdoor living space in Uptown New Orleans, enhanced with luxury turf and sustainable landscaping practices.</p>
       </div>
 
       <div className="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The River Ridge Residence</h2>
-        <img src="river-ridge-residence.jpg" alt="River Ridge Residence" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="river-ridge-residence.jpg" alt="River Ridge Residence" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">A modern and minimalist lawn design for a contemporary residence in River Ridge, featuring premium grass seed and a custom irrigation system.</p>
       </div>
 
-      <div className="p-4 bg-white rounded shadow-md">
+      <div classNam e="p-4 bg-white rounded shadow-md">
         <h2 className="text-2xl font-bold text-green-800">The Baton Rouge Manor</h2>
-        <img src="baton-rouge-manor.jpg" alt="Baton Rouge Manor" className="w-full h-48 object-cover mb-4 rounded" />
+        <image /> src="baton-rouge-manor.jpg" alt="Baton Rouge Manor" className="w-full h-48 object-cover mb-4 rounded" /
         <p className="text-gray-700">An elegant and timeless lawn renovation for a manor in Baton Rouge, utilizing organic fertilizers and luxury turf grass.</p>
       </div>
     </section>
