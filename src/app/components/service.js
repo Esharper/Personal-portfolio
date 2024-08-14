@@ -1,4 +1,4 @@
-// components/Service.js
+ components/Service.js
 import React from "react";
 
 const Service = ({ name, description, available, price }) => (

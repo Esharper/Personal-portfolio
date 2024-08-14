@@ -1,5 +1,5 @@
 import React from "react";
-import Service from './components/service.';
+// import Service from './components/service.';
 
 const Home = () => (
   <div className="flex flex-col items-center justify-center min-h-screen p-6 bg-green-100">
@@ -15,21 +15,21 @@ const Home = () => (
     <h3 className="mb-6 text-2xl font-bold text-green-600">Our Exclusive Services</h3>
 
     <section>
-      <Service
+      <service
         name="Executive Lawn Maintenance"
         description="Top-tier lawn care with weekly maintenance and premium products."
         available="Yes"
         price="Starting at $200/month"
       />
 
-      <Service
+      <service
         name="Luxury Landscaping Design"
         description="Custom landscape designs with elegant touches, tailored to your preferences."
         available="Yes"
         price="Starting at $5,000"
       />
 
-      <Service
+      <service
         name="Premium Seasonal Care"
         description="Seasonal treatments to keep your lawn pristine all year round."
         available="Yes"

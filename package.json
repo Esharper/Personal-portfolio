@@ -11,14 +11,17 @@
   "dependencies": {
     "firebase": "^10.12.5",
     "next": "^14.2.5",
+    "personal-portfolio": "file:",
     "react": "^18",
     "react-dom": "^18",
-    "react-router-dom": "^6.24.1"
+    "react-router-dom": "^6.24.1",
+    "swr": "^2.2.5"
   },
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "webpack-cli": "^5.1.4"
   }
 }
