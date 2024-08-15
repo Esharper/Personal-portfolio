@@ -1,18 +1,11 @@
 // import React from 'react'
 
-// export default function Bike
-// ({ make, model, engine, available, color}) {
-//   return (
-//     <div className="m-5 p-5 bg-red-500 border border-black rounded-md w-250">
-//         Make: {make}
-//         <br></br>
-//         Model:{model}
-//         <br></br>
-//         Engine:{engine}
-//         <br></br>
-//         Available:{available}
-//         <br></br>
-//         Color: {color}
+// const Service = ({ name, description, available, price }) => (
+//     <div className="p-4 mb-4 bg-white rounded shadow-md">
+//       <h2 className="text-xl font-bold text-green-800">{name}</h2>
+//       <p className="text-gray-700">{description}</p>
+//       <p className="text-gray-500">yoooooooooooAvailable: {available}</p>
+//       <p className="text-gray-700 font-bold">Price: {price}</p>
 //     </div>
-//   )
-// }
+//   );
+//   export default Service;
