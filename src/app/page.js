@@ -1,5 +1,5 @@
 import React from "react";
-import Service from './components/Service'; // Ensure this path is correct
+import Service from './components/service'; // Ensure this path is correct
 
 const Home = () => (
   <div className="flex flex-col items-center justify-center min-h-screen p-6 bg-green-100">
